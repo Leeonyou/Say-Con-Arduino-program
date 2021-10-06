@@ -7,6 +7,6 @@
 5) 이후 애플리케이션을 실행 후 앱과 IoT 모듈간 블루투스 연결이 성공이 되면 정상적으로 Say-Con 을 사용할 수 있습니다.
 
 ** 참고 주소 **
-1) Say-Con 애플리케이션 다운로드 링크 : https://play.google.com/store/apps/details?id=stella.example.saycon
-2) Say-Con 매뉴얼 홈페이지 링크 : https://stellasw-saycon.netlify.app/
+1) Say-Con 애플리케이션 다운로드 링크 : https://play.google.com/store/apps/details?id=com.saycon_proj
+2) Say-Con 매뉴얼 홈페이지 링크 : http://stellasw-saycon.com/
 3) "Say Con" IoT 음성인식 컨트롤러음성인식 디바이스(2021캡스톤디자인 EXPO) 유튜브 링크 : https://www.youtube.com/watch?v=URWX5SQ3ZL8
