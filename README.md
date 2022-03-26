@@ -8,7 +8,7 @@
 4) 앱을 성공적으로 다운로드를 받으면 컴파일이 완료된 Say-Con 아두이노 IoT 모듈을 PC 및 노트북에 연결을 합니다.(5핀 케이블이 반드시 필요합니다.)
 5) 이후 애플리케이션을 실행 후 앱과 IoT 모듈간 블루투스 연결이 성공이 되면 정상적으로 Say-Con 을 사용할 수 있습니다.
 
-# 🧑‍💻 참고 주소
+# 🧑‍💻 Reference address
 1) Say-Con 애플리케이션 다운로드 링크 : https://play.google.com/store/apps/details?id=com.saycon_proj
 2) Say-Con 매뉴얼 홈페이지 링크 : http://stellasw-saycon.com/
 3) "Say Con" IoT 음성인식 컨트롤러음성인식 디바이스(2021캡스톤디자인 EXPO) 유튜브 링크 : https://www.youtube.com/watch?v=URWX5SQ3ZL8
