@@ -14,7 +14,4 @@
 3) "Say Con" IoT 음성인식 컨트롤러음성인식 디바이스(2021캡스톤디자인 EXPO) 유튜브 링크 : https://www.youtube.com/watch?v=URWX5SQ3ZL8
 
 # 🏆 2021-1학기 캡스톤 디자인 EXPO 우수상
-<img src = https://user-images.githubusercontent.com/76272599/160229001-7de2e83a-a746-4e24-9517-ecb9d7eec032.jpeg width = "50%" , height = "50%">
-
-
-
+<img src=https://user-images.githubusercontent.com/76272599/160229001-7de2e83a-a746-4e24-9517-ecb9d7eec032.jpeg width="50%" height="50%">
