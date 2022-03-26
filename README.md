@@ -13,4 +13,7 @@
 2) Say-Con 매뉴얼 홈페이지 링크 : http://stellasw-saycon.com/
 3) "Say Con" IoT 음성인식 컨트롤러음성인식 디바이스(2021캡스톤디자인 EXPO) 유튜브 링크 : https://www.youtube.com/watch?v=URWX5SQ3ZL8
 
+# 2021-1학기 캡스톤 디자인 EXPO 우수상
+
+
 
